@@ -13,6 +13,7 @@ Open-source infographics on data analytics, data science, machine learning and A
 | 🗺️ Maps | Geospatial and regional breakdowns |
 | 🔄 Process Flows | Step-by-step and lifecycle diagrams |
 | 📋 Comparisons | Side-by-side data breakdowns |
+| ✒️ Concepts | Concepts visualised |
 
 ## Files
 
